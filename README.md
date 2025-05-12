@@ -21,8 +21,8 @@ This tool bridges the gap between simple tabular data and industry-standard wave
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/csv-to-vcd.git
-cd csv-to-vcd
+git clone https://github.com/SystemVll/csv2vcd.git
+cd csv2vcd
 ```
 
 No additional dependencies required beyond Python's standard library.
